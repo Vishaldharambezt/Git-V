@@ -9,4 +9,7 @@ export const PUBLIC_KEY = "ermn3uy873b7edbduhd873bne3782";
 
 export const PRIVATE_KEY = "eynfdf874nf8n4848f8flsldfm88";
 export const PRIVATE1cc_KEY1 = "eynfdf874nf8n4848f8flsldfm88";
-export const MIXPANEL = 'weheu38bnr783br7bruhr873';
+
+
+export const Redis_Host = 172.23.32.01
+export const Local_Redis_Host = 134.23.32.01
